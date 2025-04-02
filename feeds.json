@@ -6,5 +6,9 @@
   {
     "title": "Phil Eaton",
     "url": "https://notes.eatonphil.com/rss.xml"
+  },
+  {
+    "title": "Supabase Blog",
+    "url": "https://supabase.com/rss.xml"
   }
 ]
