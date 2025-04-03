@@ -46,5 +46,8 @@
   {
     "title": "CedarDB Blog",
     "url": "https://cedardb.com/blog/index.xml"
+  },
+    "title": "Tinybird Engineering Blog",
+    "url": "https://www.tinybird.co/blog-posts/rss.xml"
   }
 ]
