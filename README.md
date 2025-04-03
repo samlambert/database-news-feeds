@@ -1,12 +1,12 @@
 # database.news
 
-The list of RSS feeds for https://database.news/ is stored in a `feeds.json` to allow community contributions.
+The list of RSS feeds for https://database.news/ to allow community contributions.
 
 ### Contributing
 
-- Send a pull request adding whatever feeds you think are good.
-- Your PR might be closed without explanation. Don't cry about it.
-- The feeds sync every 30 minutes
+- Send a pull request adding whatever feeds you think are good to `feeds.json`.
+- Understand that your PR might be closed without explanation. Don't get upset about it.
+- The feeds sync every 30 minutes.
 
 
 ### feeds.json Configuration Options
@@ -75,5 +75,3 @@ When a feed is removed from the feeds.json file:
 - The feed will be removed from the database the next time the feed fetcher runs
 - All articles from that feed will be permanently deleted
 - This cleanup happens automatically with each feed fetcher run
-
-To add a new feed or modify existing feeds, submit a PR to the feeds repository.
