@@ -10,5 +10,9 @@
   {
     "title": "Supabase Blog",
     "url": "https://supabase.com/rss.xml"
+  },
+  {
+    "title": "Small Datum - Mark Callaghan",
+    "url": "https://smalldatum.blogspot.com/feeds/posts/default"
   }
 ]
