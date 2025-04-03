@@ -54,5 +54,9 @@
   {
     "title": "Hack MySQL",
     "url": "https://hackmysql.com/tags/mysql/index.xml"
+  },
+  {
+    "title": "Alex Miller",
+    "url": "https://transactional.blog/feed.xml"
   }
 ]
