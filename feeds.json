@@ -45,6 +45,7 @@
   },
   {
     "title": "Tinybird Engineering Blog",
-    "url": "https://www.tinybird.co/blog-posts/rss.xml"
+    "url": "https://www.tinybird.co/blog-posts/rss.xml",
+    "filter_tags": ["clickhouse", "postgres", "real-time analytics"]
   }
 ]
