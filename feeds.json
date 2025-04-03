@@ -42,5 +42,9 @@
   {
     "title": "Cockroach Labs Blog",
     "url": "https://www.cockroachlabs.com/blog/index.xml"
+  },
+  {
+    "title": "Neon",
+    "url": "https://neon.tech/blog/rss.xml"
   }
 ]
