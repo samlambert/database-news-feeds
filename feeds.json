@@ -18,5 +18,29 @@
   {
     "title": "Openark - Shlomi Noach",
     "utl": "https://code.openark.org/blog/feed"
+  },
+  {
+    "title": "Percona Database Performance Blog",
+    "url": "https://www.percona.com/blog/feed/"
+  },
+  {
+    "title": "Database Architects",
+    "url": "https://databasearchitects.blogspot.com/feeds/posts/default"
+  },
+  {
+    "title": "Franck Pachot",
+    "url": "https://dev.to/feed/franckpachot"
+  },
+  {
+    "title": "Michael J. Swart - Database Whisperer",
+    "url": "https://michaeljswart.com/feed"
+  },
+  {
+    "title": "Kyle Kingsbury (Aphyr / Jepsen)",
+    "url": "https://aphyr.com/posts.atom"
+  },
+  {
+    "title": "Cockroach Labs Blog",
+    "url": "https://www.cockroachlabs.com/blog/index.xml"
   }
 ]
