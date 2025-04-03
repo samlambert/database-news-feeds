@@ -1,0 +1,28 @@
+name: Validate JSON
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Validate feeds.json
+        run: |
+          echo "Validating feeds.json..."
+          # Capture both stdout and stderr
+          OUTPUT=$(jq . feeds.json 2>&1)
+          RESULT=$?
+          
+          # Check for errors
+          if [ $RESULT -ne 0 ] || echo "$OUTPUT" | grep -q "parse error"; then
+            echo "::error::feeds.json contains invalid JSON"
+            echo "$OUTPUT"
+            exit 1
+          fi
+          
+          echo "feeds.json is valid JSON!"
