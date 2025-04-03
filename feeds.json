@@ -63,5 +63,9 @@
   {
     "title": "Avinash Sajjanshetty",
     "url": "https://avi.im/blag/index.xml"
-  }
+  },
+  {
+    "title": "Vitess Blog",
+    "url": "https://vitess.io/blog/index.xml"
+  },
 ]
