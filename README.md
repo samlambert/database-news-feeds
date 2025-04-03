@@ -6,6 +6,7 @@ The list of RSS feeds for https://database.news/ is stored in a `feeds.json` to 
 
 - Send a pull request adding whatever feeds you think are good.
 - Your PR might be closed without explanation. Don't cry about it.
+- The feeds sync every 30 minutes
 
 
 ### feeds.json Configuration Options
