@@ -42,5 +42,9 @@
   {
     "title": "Cockroach Labs Blog",
     "url": "https://www.cockroachlabs.com/blog/index.xml"
+  },
+  {
+    "title": "CedarDB Blog",
+    "url": "https://cedardb.com/blog/index.xml"
   }
 ]
