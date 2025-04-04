@@ -75,5 +75,10 @@
   {
     "title": "Murat Demirbas",
     "url": "https://muratbuffalo.blogspot.com/feeds/posts/default"
+  },
+  {
+    "title": "Neon Engineering Blog",
+    "url": "https://neon.tech/blog/rss.xml",
+    "filter_tags": ["engineering"]
   }
 ]
