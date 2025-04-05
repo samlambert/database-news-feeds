@@ -42,5 +42,9 @@
   {
     "title": "Cockroach Labs Blog",
     "url": "https://www.cockroachlabs.com/blog/index.xml"
+  },
+  {
+    "title": "AWS Database Blog - Amazon Aurora",
+    "url": "https://aws.amazon.com/blogs/database/category/database/amazon-aurora/feed/"
   }
 ]
