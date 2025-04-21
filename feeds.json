@@ -5,7 +5,11 @@
   },
   {
     "title": "Phil Eaton",
-    "url": "https://notes.eatonphil.com/rss.xml"
+    "url": "https://notes.eatonphil.com/rss.xml",
+    "filter_tags": [
+      "databases",
+      "distsys"
+    ]
   },
   {
     "title": "Supabase Blog",
