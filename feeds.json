@@ -5,7 +5,11 @@
   },
   {
     "title": "Phil Eaton",
-    "url": "https://notes.eatonphil.com/rss.xml"
+    "url": "https://notes.eatonphil.com/rss.xml",
+    "filter_tags": [
+      "databases",
+      "distsys"
+    ]
   },
   {
     "title": "Supabase Blog",
@@ -17,7 +21,7 @@
   },
   {
     "title": "Openark - Shlomi Noach",
-    "utl": "https://code.openark.org/blog/feed"
+    "url": "https://code.openark.org/blog/feed"
   },
   {
     "title": "Percona Database Performance Blog",
@@ -54,7 +58,12 @@
   {
     "title": "Tinybird Engineering Blog",
     "url": "https://www.tinybird.co/blog-posts/rss.xml",
-    "filter_tags": ["clickhouse", "postgres", "real-time analytics"]
+    "filter_tags": [
+      "clickhouse",
+      "postgres",
+      "real-time analytics",
+      "database"
+    ]
   },
   {
     "title": "Hack MySQL",
@@ -81,7 +90,11 @@
     "url": "https://muratbuffalo.blogspot.com/feeds/posts/default"
   },
   {
+    "title": "transactional",
+    "url": "https://transactional.blog/feed.xml"
+  },
+  {
     "title": "ParadeDB Blog",
     "url": "https://paradedb.com/feed.xml"
-  },
+  }
 ]
