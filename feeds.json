@@ -92,5 +92,12 @@
   {
     "title": "transactional",
     "url": "https://transactional.blog/feed.xml"
+  },
+  {
+    "title": "Stack - Convex Blog",
+    "url": "https://stack.convex.dev/rss/feed.xml",
+    "filter_tags": [
+      "Database"
+    ]
   }
 ]
