@@ -104,5 +104,9 @@
     "filter_tags": [
       "Database"
     ]
+  },
+  {
+    "title": "VillageSQL Blog",
+    "url": "https://villagesql.com/blog/rss/"
   }
 ]
