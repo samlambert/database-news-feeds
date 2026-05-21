@@ -71,7 +71,8 @@
   },
   {
     "title": "Alex Miller",
-    "url": "https://transactional.blog/feed.xml"
+    "url": "https://transactional.blog/feed.xml",
+    "filter_tags": ["databases"],
   },
   {
     "title": "Avinash Sajjanshetty",
@@ -88,10 +89,6 @@
   {
     "title": "Murat Demirbas",
     "url": "https://muratbuffalo.blogspot.com/feeds/posts/default"
-  },
-  {
-    "title": "transactional",
-    "url": "https://transactional.blog/feed.xml"
   },
   {
 
