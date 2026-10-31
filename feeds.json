@@ -108,5 +108,10 @@
   {
     "title": "VillageSQL Blog",
     "url": "https://villagesql.com/blog/rss/"
+  },
+  {
+    "title": "Joho no Todai - PostgreSQL (Japanese)",
+    "url": "https://joho-todai.com/tag/postgresql/rss/",
+    "category": "Database"
   }
 ]
